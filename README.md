@@ -1,3 +1,3 @@
 # cell_counter
                              cell counter
-![Alt Text](url)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
