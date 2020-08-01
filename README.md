@@ -12,8 +12,8 @@ segmentation and classification and counting the cells in blood
                              
                              
 
- <img src="mrh286-cdp-033018.jpg" width="150" height="100" border="10" title="blood cells">
-  
+ <img src="mrh286-cdp-033018.jpg" width="250" height="200" border="20" title="blood cells">
+                      blood cells
 
 for medicl application , blood cells have a huge information about the diseases
  <img src="eso-14882501911.jpg" width="550" title="blood cells">
