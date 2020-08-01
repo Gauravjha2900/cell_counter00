@@ -10,4 +10,9 @@ segmentation and classification and counting the cells in bood
    
    3-platelet
                              cell counter
-![Image of Yaktocat](۲۰۱۶۱۱۰۶_۱۳۵۵۱۴.jpg)
+                             
+ <p align="center">
+  <img src="F:\picture\3956.jpg" width="350" title="hover text">
+  
+</p>
+![Image of Yaktocat](k)
