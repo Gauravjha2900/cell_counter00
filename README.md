@@ -9,6 +9,10 @@
 
 2-for finding the python codes of this project for white blood cell classification : WBC_classification.ipynb 
 
+
+####  ***All of this dataset has been taken by our lab microscope*** 
+
+
 ### segmentation and classification and counting the cells in blood :
 
    1-red blood cell : 
@@ -20,7 +24,7 @@
                       3- dataset : 322 images that averagely any image has 1000 RBC
    
    
-   2-white blood cell : 1- counting the numbers of WBC   3- classification of WBC to 5 groups
+   2-white blood cell : 
    
                       1- counting the numbers of WBC     RESULT : 100% in counting 
    
@@ -31,7 +35,7 @@
    3-platelet  :  1- counting the numbers of PLT   2- finding the radius of PLT 
                              
    
-#### All of this dataset has been taken by our lab microscope  
+ 
 
 
 ### blood cells
