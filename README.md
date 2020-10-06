@@ -1,16 +1,20 @@
 # NABZ GROUP
 ## CELL COUNTER
 
-# In this project after using a novel technique for imaging of cells in blood what is a microfluidic channel we can take a picture using a camera and a microscope then by image processing techniques we can count and classify these cells to detect a special desease . 
+## In this project after using a novel technique for imaging of cells in blood what is a microfluidic channel we can take a picture using a camera and a microscope then by image processing techniques we can count and classify these cells to detect a special desease . 
 
 1-for finding the python codes of this project for red blood cell : RBC.ipynb 
+
 2-for finding the python codes of this project for white blood cell segmentation : WBC_segmentation.ipynb 
+
 2-for finding the python codes of this project for white blood cell classification : WBC_classification.ipynb 
 
 segmentation and classification and counting the cells in blood :
 
    1-red blood cell : 1- counting the numbers of RBC     RESULT : 99.15% in counting 
+   
                       2- finding the radius of RBC       RESULT : mean = 99%  and variance = 90%  
+                      
                       3- dataset : 322 images that averagely any image has 1000 RBC
    
    2-white blood cell : 1- counting the numbers of WBC   3- classification of WBC to 5 groups
