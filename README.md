@@ -18,6 +18,8 @@ segmentation and classification and counting the cells in blood
 
 for medicl application , blood cells have a huge information about the diseases
 
+###All of this dataset has been taken by our lab microscope
+
 ### esotrophil
 
 <img src="eso-14882501911.jpg" width="450" height="150" border="20">
