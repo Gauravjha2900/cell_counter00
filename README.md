@@ -17,7 +17,7 @@
 
    1-red blood cell : 
                       
-                      1- counting the numbers of RBC     RESULT : 99.15% in counting 
+                      1- counting the numbers of RBC     RESULT : 99.25% in counting 
    
                       2- finding the radius of RBC       RESULT : mean = 99%  and variance = 90%  
                       
