@@ -1,8 +1,10 @@
 # NABZ GROUP
 ## CELL COUNTER
 
+# In this project after using a novel technique for imaging of cells in blood what is a microfluidic channel we can take a picture using a camera and a microscope then by image processing techniques we can count and classify these cells to detect a special desease . 
 
-segmentation and classification and counting the cells in blood
+for finding the python codes of this project go to : project / red cl 
+segmentation and classification and counting the cells in blood :
 
    1-red blood cell
    
@@ -16,9 +18,11 @@ segmentation and classification and counting the cells in blood
 <img src="mrh286-cdp-033018.jpg" width="450" height="200" border="20" title="blood cells">
                       blood cells
 
-for medicl application , blood cells have a huge information about the diseases
 
-###All of this dataset has been taken by our lab microscope
+### for medicl application , blood cells have a huge information about the diseases . so we can after taking a picture of these cells and processing and counting how many of these cells exist in the blood then we can detect a special desease .
+
+
+#### All of this dataset has been taken by our lab microscope
 
 ### esotrophil
 
