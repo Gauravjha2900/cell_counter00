@@ -9,29 +9,43 @@
 
 2-for finding the python codes of this project for white blood cell classification : WBC_classification.ipynb 
 
-segmentation and classification and counting the cells in blood :
+### segmentation and classification and counting the cells in blood :
 
-   1-red blood cell : 1- counting the numbers of RBC     RESULT : 99.15% in counting 
+   1-red blood cell : 
+                      
+                      1- counting the numbers of RBC     RESULT : 99.15% in counting 
    
                       2- finding the radius of RBC       RESULT : mean = 99%  and variance = 90%  
                       
                       3- dataset : 322 images that averagely any image has 1000 RBC
    
+   
    2-white blood cell : 1- counting the numbers of WBC   3- classification of WBC to 5 groups
+   
+                      1- counting the numbers of WBC     RESULT : 100% in counting 
+   
+                      2- classification of WBC       RESULT : 92% in classification  
+                      
+                      3- dataset : 401 images that averagely any image has 3 WBC
    
    3-platelet  :  1- counting the numbers of PLT   2- finding the radius of PLT 
                              
-                             
+   
+#### All of this dataset has been taken by our lab microscope  
+
+
 ### blood cells
 
 <img src="mrh286-cdp-033018.jpg" width="450" height="200" border="20" title="blood cells">
                       
 
 
-### for medicl application , blood cells have a huge information about the diseases . so we can after taking a picture of these cells and processing and counting how many of these cells exist in the blood then we can detect a special desease .
+
+for medicl application , blood cells have a huge information about the diseases . so we can after taking a picture of these cells and processing and counting how many of these cells exist in the blood then we can detect a special desease 
 
 
-#### All of this dataset has been taken by our lab microscope
+
+
 
 ### red blood cell
 
