@@ -4,7 +4,6 @@ scipy
 tensorflow
 keras
 imutils
-csv
 json
 flask
 
