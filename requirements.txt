@@ -1,0 +1,12 @@
+cv2==4.1.2
+numpy
+matplotlib
+scipy
+os
+tensorflow
+keras
+imutils
+csv
+json
+flask
+
