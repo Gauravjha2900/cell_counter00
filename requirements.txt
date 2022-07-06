@@ -1,7 +1,7 @@
+cv2
 numpy
 matplotlib
 scipy
-os
 tensorflow
 keras
 imutils
